@@ -8,6 +8,10 @@ Each project focuses on a different analytical context and problem type, reflect
 
 ## Projects Overview
 
+### FMCG_BCS
+End-to-end FMCG sales performance and customer insights analysis using **Excel and Tableau**.  
+The project covers data cleaning, pivot-based analysis, and the development of an interactive dashboard to analyze monthly sales trends, regional performance, top products, and customer segment contributions.
+
 ### YULU_BCS
 Exploratory analysis of bike-sharing demand and operational patterns to derive insights related to usage behavior and resource allocation.
 
@@ -34,6 +38,8 @@ Some projects are based on guided case studies or restricted datasets. In such c
 ---
 
 ## Tools & Skills Demonstrated
+- Excel (data cleaning, PivotTables, analysis)
+- Tableau (interactive dashboards and visualization)
 - Python (Pandas, NumPy)
 - Data visualization (Matplotlib, Seaborn)
 - Statistical analysis and hypothesis testing
