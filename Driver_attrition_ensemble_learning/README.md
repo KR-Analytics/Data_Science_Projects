@@ -1,24 +1,19 @@
 # 🚖 Driver Attrition Prediction (Ride-Hailing Platform)
 
 ## Problem Statement
-Driver attrition is a major challenge for ride-hailing platforms. This project aims to predict whether a driver is likely to leave the platform using historical data on demographics, tenure, and performance.
+Predicting driver attrition using ensemble learning to enable proactive retention strategies in a ride-hailing platform.
 
 ---
+## Key Result
+Achieved **ROC-AUC ~0.84** using Gradient Boosting to predict driver attrition.
 
+---
 ## Approach
 
-### Data Preprocessing
-- Date feature transformation
-- Handling missing values using KNN Imputation
-- Aggregation from monthly level to driver level
-
-### Feature Engineering
-- Income trend (increase/decrease)
-- Rating trend (increase/decrease)
-- Target variable creation (attrition)
-
-### Handling Class Imbalance
-- Applied SMOTE to balance minority class
+- Data preprocessing (KNN Imputation, date handling)
+- Feature engineering (income & rating trends)
+- Class imbalance handling (SMOTE)
+- Ensemble models (Random Forest, Gradient Boosting)
 
 ---
 
@@ -79,6 +74,6 @@ Driver attrition is a major challenge for ride-hailing platforms. This project a
 
 ## Conclusion
 
-Ensemble learning models effectively predict driver attrition, enabling data-driven decision-making to improve retention and reduce operational costs.
+Ensemble learning models effectively predict driver attrition, enabling data-driven decision-making to improve retention and reduce operational costs. This project demonstrates how machine learning can directly drive business decisions and reduce operational costs.
 
 ---
