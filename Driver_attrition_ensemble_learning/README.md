@@ -67,8 +67,7 @@ Achieved **ROC-AUC ~0.84** using Gradient Boosting to predict driver attrition.
 
 ## Files
 
-- `ola_driver_analysis.ipynb` → Complete notebook  
-- `report.pdf` → Summary report (if uploaded)
+- `OLA_BCS.ipynb` → Complete notebook  
 
 ---
 
